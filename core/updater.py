@@ -15,7 +15,7 @@ from requests import get
 
 def updater():
     '''
-    Function to update XSRFProbe seamlessly.
+    Function to update Lulz-CSRF seamlessly.
     '''
     print(GR+'Checking for updates...')
     vno = get('https://raw.githubusercontent.com/0xInfection/XSRFProbe/master/files/VersionNum').text
@@ -33,5 +33,5 @@ def updater():
             os.system('cp -r %s/%s/* %s && rm -r %s/%s/ 2>/dev/null' % (path, folder, path, path, folder))
             print(G+'Update successful!')
     else:
-        print(G+'XSRFProbe is up to date!')
+        print(G+'Lulz-CSRF is up to date!')
     quit()
