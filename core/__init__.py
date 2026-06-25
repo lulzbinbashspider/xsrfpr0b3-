@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 #-:-:-:-:-:-:-::-:-:#
-#    XSRF Probe     #
+#    Lulz-CSRF     #
 #-:-:-:-:-:-:-::-:-:#
 
-#This module requires XSRFProbe
-#https://github.com/0xInfection/XSRFProbe
+#This module requires Lulz-CSRF
+#https://github.com/lulzbinbashspider/Lulz-CSRF
