@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 #-:-:-:-:-:-:-::-:-:#
-#    XSRF kroke     #
+#    Lulz-CSRF     #
 #-:-:-:-:-:-:-::-:-:#
 
 # Author: Kroketaun
-# This module requires XSRFkroke
+# This module requires Lulz-CSRF
 # LulZSeC  AntiSeC
 
 from core import main  # import stuff
