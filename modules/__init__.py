@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 #-:-:-:-:-:-:-::-:-:#
-#    XSRF Probe     #
+#   Lulz-CSRF     #
 #-:-:-:-:-:-:-::-:-:#
 
-# Author: 0xInfection
-#This module requires XSRFProbe
-#https://github.com/0xInfection/XSRFProbe
+#Author: kroketon lulzbin
+#This module requires Lulz-CSRF
+#https://github.com/lulzbinbashspider/Lulz-CSRF
