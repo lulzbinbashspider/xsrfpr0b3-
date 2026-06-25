@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-#-:-:-:-:-:-:-:-:-:#
-#    XSRFProbe     #
-#-:-:-:-:-:-:-:-:-:#
+#-:-:-:-:-:-:-::-:-:#
+#   Lulz-CSRF     #
+#-:-:-:-:-:-:-::-:-:#
 
-# Author: 0xInfection
-# This module requires XSRFProbe
-# https://github.com/0xInfection/XSRFProbe
+#Author: kroketon lulzbin
+#This module requires Lulz-CSRF
+#https://github.com/lulzbinbashspider/Lulz-CSRF
 
 # Standard Package imports
 import os
