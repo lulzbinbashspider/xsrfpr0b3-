@@ -2,12 +2,12 @@
 #coding: utf-8
 
 #-:-:-:-:-:-:-::-:-:#
-#    XSRF Probe     #
+#   Lulz-CSRF     #
 #-:-:-:-:-:-:-::-:-:#
 
-#Author: 0xInfection (@_tID)
-#This module requires XSRFProbe
-#https://github.com/0xInfection/XSRFProbe
+#Author: kroketon lulzbin
+#This module requires Lulz-CSRF
+#https://github.com/lulzbinbashspider/Lulz-CSRF
 
 from core.colors import *
 import socket, requests, tld, re
